@@ -1,3 +1,6 @@
+
+
+
 # Gym Receptionist — Hinglish Voice AI Agent
 
 A real-time voice receptionist for **Hype The Gym, Sector 93 (Delhi)** that answers calls in natural **Hinglish** — the code-mixed Hindi-English actually spoken in urban India. Callers ask about timings, membership plans, trainers, or equipment over the phone or browser, and "Sarthak" answers conversationally, grounded in real gym data via function calling.
@@ -7,9 +10,7 @@ A real-time voice receptionist for **Hype The Gym, Sector 93 (Delhi)** that answ
 Built with [LiveKit Agents](https://github.com/livekit/agents); works over both **telephony (SIP)** and **WebRTC** (browser/mobile).
 
 ## Demo
-
-<video controls src="[https://github.com/HAizelf/Gym-Receptionist/raw/main/.github/assets/demo.mp4](https://github.com/HAizelf/Gym-Receptionist/raw/main/.github/assets/demo.mp4)" title="Presentation"></video>
-https://github.com/HAizelf/Gym-Receptionist/raw/main/.github/assets/demo.mp4
+https://github.com/user-attachments/assets/7f37e68a-66a6-4d05-a571-57e5462fc705
 
 
 *(2-minute conversation — code-mixed Hinglish, tool-grounded answers, natural interruptions.)*
