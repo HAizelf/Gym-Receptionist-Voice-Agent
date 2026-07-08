@@ -8,9 +8,10 @@ Built with [LiveKit Agents](https://github.com/livekit/agents); works over both 
 
 ## Demo
 
-https://github.com/HAizelf/Gym-Receptionist/raw/main/.github/assets/demo.mp4
+<video controls src="https://github.com/HAizelf/Gym-Receptionist/raw/main/.github/assets/demo.mp4" title="Presentation"></video>
 
 *(2-minute conversation — code-mixed Hinglish, tool-grounded answers, natural interruptions.)*
+
 
 ## Why this is harder than an English voice bot
 
