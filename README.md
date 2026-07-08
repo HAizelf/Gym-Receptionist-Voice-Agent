@@ -8,7 +8,9 @@ Built with [LiveKit Agents](https://github.com/livekit/agents); works over both 
 
 ## Demo
 
-<video controls src="https://github.com/HAizelf/Gym-Receptionist/raw/main/.github/assets/demo.mp4" title="Presentation"></video>
+<video controls src="[https://github.com/HAizelf/Gym-Receptionist/raw/main/.github/assets/demo.mp4](https://github.com/HAizelf/Gym-Receptionist/raw/main/.github/assets/demo.mp4)" title="Presentation"></video>
+https://github.com/HAizelf/Gym-Receptionist/raw/main/.github/assets/demo.mp4
+
 
 *(2-minute conversation — code-mixed Hinglish, tool-grounded answers, natural interruptions.)*
 
